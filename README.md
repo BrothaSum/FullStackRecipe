@@ -1,2 +1,2 @@
-# FullStackRecipe
-Full Stack Recipe App
+# Full Stack Recipe App
+MERN Stack
